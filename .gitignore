@@ -1,0 +1,25 @@
+# Terraform
+.terraform/
+*.tfstate
+*.tfstate.*
+tfplan
+plan.json
+crash.log
+
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+.ruff_cache/
+.venv/
+venv/
+
+# Run output
+reports/
+moto.log
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
