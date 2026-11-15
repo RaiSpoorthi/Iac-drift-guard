@@ -1,6 +1,5 @@
 # IaC Drift Guard
 
-![pipeline](https://github.com/RaiSpoorthi/Iac-drift-guard/actions/workflows/pipeline.yml/badge.svg)
 [![DriftGuard pipeline](https://github.com/RaiSpoorthi/iac-drift-guard/actions/workflows/pipeline.yml/badge.svg)](https://github.com/RaiSpoorthi/iac-drift-guard/actions/workflows/pipeline.yml)
 ![Terraform](https://img.shields.io/badge/Terraform-IaC-7B42BC?logo=terraform)
 ![OPA](https://img.shields.io/badge/OPA-Rego-4D4D4D?logo=openpolicyagent)
